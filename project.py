@@ -1,2 +1,3 @@
 print("Hello, World!")
-print(Hello, Oleksii)
+print("Hello, Oleksii")
+a = 2
